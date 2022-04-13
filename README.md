@@ -1,5 +1,9 @@
 # Installation
 
+```bash
+npm i node-pdf-ocr
+```
+
 Install Tesseract from [GitHub](https://tesseract-ocr.github.io/tessdoc/Downloads.html)
 
 Install Ghostscript from [GitHub](https://github.com/ArtifexSoftware/ghostpdl-downloads/releases)
