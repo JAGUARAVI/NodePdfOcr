@@ -1,0 +1,16 @@
+{
+  "name": "node-pdf-ocr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests/test.js ./tests/sample.pdf"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "temp": "^0.9.4"
+  }
+}
